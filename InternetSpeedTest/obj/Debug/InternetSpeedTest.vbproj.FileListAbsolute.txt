@@ -1,0 +1,12 @@
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment6\InternetSpeedTest\bin\Debug\InternetSpeedTest.exe.config
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment6\InternetSpeedTest\bin\Debug\InternetSpeedTest.exe
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment6\InternetSpeedTest\bin\Debug\InternetSpeedTest.pdb
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment6\InternetSpeedTest\bin\Debug\InternetSpeedTest.xml
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment6\InternetSpeedTest\obj\Debug\InternetSpeedTest.vbproj.AssemblyReference.cache
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment6\InternetSpeedTest\obj\Debug\InternetSpeedTest.frmSpeed.resources
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment6\InternetSpeedTest\obj\Debug\InternetSpeedTest.Resources.resources
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment6\InternetSpeedTest\obj\Debug\InternetSpeedTest.vbproj.GenerateResource.cache
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment6\InternetSpeedTest\obj\Debug\InternetSpeedTest.vbproj.CoreCompileInputs.cache
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment6\InternetSpeedTest\obj\Debug\InternetSpeedTest.exe
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment6\InternetSpeedTest\obj\Debug\InternetSpeedTest.xml
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment6\InternetSpeedTest\obj\Debug\InternetSpeedTest.pdb
