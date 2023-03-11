@@ -62,4 +62,8 @@ Public Class frmSpeed
         lblAvgSpeed.Visible = False
 
     End Sub
+
+    Private Sub frmSpeed_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        btnClear.ForeColor = Color.DarkBlue
+    End Sub
 End Class
