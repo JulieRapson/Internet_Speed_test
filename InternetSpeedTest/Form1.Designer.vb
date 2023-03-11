@@ -26,6 +26,7 @@ Partial Class frmSpeed
         Me.btnSpeed = New System.Windows.Forms.Button()
         Me.lstBoxSpeed = New System.Windows.Forms.ListBox()
         Me.lblAvgSpeed = New System.Windows.Forms.Label()
+        Me.btnClear = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'lblTitle
@@ -53,10 +54,12 @@ Partial Class frmSpeed
         '
         'lstBoxSpeed
         '
+        Me.lstBoxSpeed.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lstBoxSpeed.FormattingEnabled = True
+        Me.lstBoxSpeed.ItemHeight = 18
         Me.lstBoxSpeed.Location = New System.Drawing.Point(761, 109)
         Me.lstBoxSpeed.Name = "lstBoxSpeed"
-        Me.lstBoxSpeed.Size = New System.Drawing.Size(108, 251)
+        Me.lstBoxSpeed.Size = New System.Drawing.Size(80, 148)
         Me.lstBoxSpeed.TabIndex = 2
         '
         'lblAvgSpeed
@@ -71,6 +74,16 @@ Partial Class frmSpeed
         Me.lblAvgSpeed.Text = "Label1"
         Me.lblAvgSpeed.Visible = False
         '
+        'btnClear
+        '
+        Me.btnClear.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnClear.Location = New System.Drawing.Point(579, 564)
+        Me.btnClear.Name = "btnClear"
+        Me.btnClear.Size = New System.Drawing.Size(75, 23)
+        Me.btnClear.TabIndex = 4
+        Me.btnClear.Text = "Clear"
+        Me.btnClear.UseVisualStyleBackColor = True
+        '
         'frmSpeed
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -78,6 +91,7 @@ Partial Class frmSpeed
         Me.BackgroundImage = Global.InternetSpeedTest.My.Resources.Resources.speed
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(908, 599)
+        Me.Controls.Add(Me.btnClear)
         Me.Controls.Add(Me.lblAvgSpeed)
         Me.Controls.Add(Me.lstBoxSpeed)
         Me.Controls.Add(Me.btnSpeed)
@@ -93,4 +107,5 @@ Partial Class frmSpeed
     Friend WithEvents btnSpeed As Button
     Friend WithEvents lstBoxSpeed As ListBox
     Friend WithEvents lblAvgSpeed As Label
+    Friend WithEvents btnClear As Button
 End Class
